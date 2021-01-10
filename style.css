@@ -30,6 +30,12 @@
     padding: 0 0 2em ;
     margin-top: 2em;
   }
+  footer a{
+    color:white;
+  }
+  footer a:hover{
+    color: rgb(213, 247, 213);
+  }
 
   .social {
       background: rgb(213, 247, 213);
