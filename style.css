@@ -13,6 +13,11 @@
   #top .topbar .contact a {
     color: white;
   }
+
+  .navbar-brand svg{
+    height: 2em;
+    fill:rgb(34, 132, 34);;
+  }
   
   .jumbotron{
       background-color: transparent;
