@@ -1,0 +1,52 @@
+#top {
+    background: #666;
+    color: white;
+    font-sise: 0.6em;
+    padding: 0.5em 0;
+  }
+  #top .topbar {
+    display: flex;
+  }
+  #top .topbar .contact {
+    margin-left: auto;
+  }
+  #top .topbar .contact a {
+    color: white;
+  }
+  
+  .jumbotron{
+      background-color: transparent;
+      background-image: linear-gradient(#fff,rgb(213, 247, 213));
+  }
+  .herowrapper {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  footer {
+    background-color: #555;
+    color: white;
+    padding: 0 0 2em ;
+    margin-top: 2em;
+  }
+
+  .social {
+      background: rgb(213, 247, 213);
+      padding: 1em 0;
+  }
+  .social p{margin:0;}
+  .social a{
+      display:inline-block;
+      margin: 0 1em;
+  }
+  .social img{
+      max-height: 2em;
+  }
+  #disclaimer{
+      margin-top: 1.5em;
+  }
+  
+  #intro h2 {
+    text-transform: capitalize;
+  }
