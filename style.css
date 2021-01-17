@@ -1,7 +1,7 @@
 #top {
-    background: #666;
+    background: rgb(121, 3, 3);
     color: white;
-    font-size: 0.6em;
+  //  font-size: 0.6em;
     padding: 0.5em 0;
   }
   #top .topbar {
@@ -31,7 +31,7 @@
   }
   
   footer {
-    background-color: #555;
+    background-color: rgb(121, 3, 3);
     color: white;
     padding: 0 0 2em ;
     margin-top: 2em;
